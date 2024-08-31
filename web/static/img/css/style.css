@@ -1,4 +1,13 @@
 .imagen-logo {
-    width: 22rem;
-    margin:4rem 0;
+    width: 15rem;
+    margin: 1rem 0;
+}
+
+
+.Card {
+    transition: transform 0.4 ease;
+}
+
+.card:hover {
+    transform: scale(1.15);
 }
